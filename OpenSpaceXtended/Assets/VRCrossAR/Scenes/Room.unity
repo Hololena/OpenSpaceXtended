@@ -453,8 +453,8 @@ MonoBehaviour:
   - {fileID: 6246618556307038356}
   - {fileID: 6246618557658890090}
   arCamera: {fileID: 1755712385}
-  vrBody: {fileID: 2176608843384903841, guid: 370071b949a1c4f428a15ac5937ec403, type: 3}
-  mode: 1
+  vrBody: {fileID: 2176608843384903841, guid: c057e8df20397184c84ec22d0b8ec844, type: 3}
+  mode: 0
 --- !u!4 &283924936
 Transform:
   m_ObjectHideFlags: 0
